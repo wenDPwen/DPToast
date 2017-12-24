@@ -1,4 +1,4 @@
-package com.example.dp.dptoast;
+package com.example.dptoast;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
